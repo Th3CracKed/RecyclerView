@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="element_text">Element</string>
+    <string name="repo_description">[Repo description ...]</string>
+    <string name="repo_name">[Repo name]</string>
+    <string name="repo_owner_name">[repo owner name]</string>
+    <string name="number_of_stars">[number of stars]</string>
+    <string name="avatar">Avatar</string>
+    <string name="star">Star</string>
+</resources>
